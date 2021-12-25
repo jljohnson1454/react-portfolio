@@ -11,6 +11,7 @@ This is an application with links to several of my projects as a developer. The 
 ## Links
 Deployed App: https://jljohnson1454.github.io/react-portfolio/ or https://sheltered-plateau-98685.herokuapp.com/
 <br>
+<br>
 Github:https://github.com/jljohnson1454/react-portfolio
 <br>
 <br>
@@ -25,7 +26,7 @@ Screenshot:
 <br>
 <br>
 
-![Screenshot](/src/assets/images/Screenshot.png)
+![Screenshot](./src/assets/images/Screenshot.png)
 <br>
 <br>
 

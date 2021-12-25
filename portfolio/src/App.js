@@ -5,17 +5,18 @@ import Header from './components/Header';
 import About from './components/About';
 import Projects from './components/Project';
 import Footer from './components/Footer';
+import Navigation from './components/Navigation';
 
 
 function App() {
   return (
    <div>
-     <main>
-       <Header></Header>
-       <About></About>
-       <Projects></Projects>
-       <Footer></Footer>
-     </main>
+     <Header></Header>
+     <Navigation></Navigation>
+      <About></About>
+      <Projects></Projects>
+      <Footer></Footer>
+     
    </div>
   );
 }

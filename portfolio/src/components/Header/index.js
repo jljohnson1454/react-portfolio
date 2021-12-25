@@ -17,7 +17,7 @@ function Header() {
                     <a href="#Contact-Me">Contact Me</a>
                 </li>
                 <li>
-                    <a href="./assets/images/Jacob_Johnson_Resume.pdf">Resume</a>
+                    <a href="../../assets/Jacob_Johnson_Resume.pdf">Resume</a>
                 </li>
             </ul>
         </nav>

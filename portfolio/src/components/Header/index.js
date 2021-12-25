@@ -1,4 +1,5 @@
 import React from "react";
+import resume from "../../assets/Jacob_Johnson_Resume.pdf"
 
 
 function Header() {
@@ -17,7 +18,7 @@ function Header() {
                     <a href="#Contact-Me">Contact Me</a>
                 </li>
                 <li>
-                    <a href="../../assets/Jacob_Johnson_Resume.pdf">Resume</a>
+                    <a href={resume}>Resume</a>
                 </li>
             </ul>
         </nav>

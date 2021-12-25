@@ -26,7 +26,7 @@ Screenshot:
 <br>
 <br>
 
-![Screenshot](./src/assets/images/Screenshot.png)
+![Screenshot](./src/assets/images/screenshot.png)
 <br>
 <br>
 

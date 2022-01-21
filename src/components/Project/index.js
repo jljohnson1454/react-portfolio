@@ -4,6 +4,7 @@ import Horiseon from "../../assets/images/Horiseon.png";
 import RunBuddy from "../../assets/images/RunBuddy.png";
 import Wags from "../../assets/images/Wags.jpg";
 import robotGladiators from "../../assets/images/robotgladiators.jpg";
+import reactfest from '../../assets/images/reactfest.jpg';
 
 const altTexts = {
     workItem: "an application to find RVs",
@@ -25,13 +26,13 @@ function Projects() {
 
                     <div class="first-row">
                     <div class="work-item">
-                        <a href="https://github.com/project-2-Glampers/RVnG/tree/main"><img src={Glampers} alt={altTexts.workItem} ></img><span>RVnG</span></a>
+                        <a href="https://github.com/MERNerds/react-fest"><img src={reactfest} alt={altTexts.workItem} ></img><span>React Fest</span></a>
                     </div>
                     </div>
 
                     <div class ="second-row">
                         <div class="work-item">
-                            <a href="https://jljohnson1454.github.io/Challenge-1-Git-Refactor/"><img src={Horiseon} alt={altTexts.workItem2}></img><span>Horiseon</span></a>
+                            <a href="https://github.com/project-2-Glampers/RVnG/tree/main"><img src={Glampers} alt={altTexts.workItem2}></img><span>RVnG</span></a>
                         </div>
                         <div class="work-item">
                             <a href="https://jljohnson1454.github.io/run-buddy/"><img src={RunBuddy} alt={altTexts.workItem3}></img><span>Run Buddy</span></a>
